@@ -1,4 +1,7 @@
 # qiita-go-bt
+ブラウザで表示するデータ（HTML）を１つのバイナリファイル（.exe）に含める。  
+このバイナリファイル１つを配布すれば、ローカルPCでGUIクライアントが作れる！！
+
 1. git clone https://github.com/keita69/qiita-go-bt.git
 2. cd qiita-go-bt
 3. setup.bat を実行する
